@@ -1,0 +1,89 @@
+body{
+    margin:0;
+    padding:0;
+    background: #97c412     ;
+}
+.name{
+    width: 100%;
+    height: 300px;
+    background: #e4c00d
+    
+}
+
+
+.name .content {
+    width:50%;
+    height: 50%;
+    position: absolute;
+    left:25%;
+}
+
+.name .content .p-1 {
+    color: rgb(32, 113, 16);
+     font-family: font-family: 'Roboto Slab', serif;
+     font-family: 'Rubik Iso', cursive;;
+     font width: bolder;
+     font: size 100px;  
+
+}
+
+.name .content .p-2 {
+    color: rgb(26, 3, 3);
+     font-family: font-family: 'Roboto Slab', serif;
+     font-family: 'Rubik Iso', cursive;;
+     font width: bolder;
+     font: size 35px;
+}
+
+.name .img {
+    position: absolute;
+    top: 8%;
+    right: 5%;
+    width: 180px; 
+    height: 180px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.name .img img{
+    width: 180px; 
+    height: 320px; 
+    
+}
+
+.info {
+ width:90%;
+ height:auto;
+ background: #099781;
+ margin:5% auto;
+ padding: 20px;   
+}
+
+.info .Tituloseccion {
+    color:#0717a9
+    font-family: font-family: 'Roboto Slab', serif;
+    font-size: xx-large;
+    text-align: center
+    font-weight:  bolder;
+    border-bottom: 2px; white 
+
+}
+
+.info .Tituloinfo{
+    color:bisque
+    font-family: font-family: 'Roboto Slab', serif;
+    font-weight: bolder
+    font-size: large;
+    display: inline;
+    margin: right 20px; 
+}
+
+.info .Infoinfo {
+    color:rgb(14, 13, 13)
+    font-family: font-family: 'Roboto Slab', serif;
+    font-weight: bolder
+    font-size:large;
+    display: inline;
+    
+
+}
+    
